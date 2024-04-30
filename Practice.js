@@ -88,3 +88,11 @@
 // {
 //     console.log(i)
 // }
+
+//Functions
+function multiply(a,b)
+{
+    return a*b
+}
+let a=10;b=2;
+console.log(multiply(a,b))
